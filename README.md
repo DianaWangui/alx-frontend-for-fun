@@ -5,7 +5,7 @@ Markdown is awesome! All your README.md are made in Markdown, but do you know ho
 
 It’s time to code a Markdown to HTML!
 
-# Requirements
+## Requirements
 All your files will be interpreted/compiled on Ubuntu 18.04 LTS using python3 (version 3.7 or higher)
 The first line of all your files should be exactly #!/usr/bin/python3
 A README.md file, at the root of the folder of the project, is mandatory
